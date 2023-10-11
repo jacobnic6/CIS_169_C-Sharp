@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.exe
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.deps.json
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.runtimeconfig.json
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.dll
+C:\School\CIS 169 C#\writePractice\bin\Debug\netcoreapp3.1\writePractice.pdb
+C:\School\CIS 169 C#\writePractice\obj\Debug\netcoreapp3.1\writePractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\writePractice\obj\Debug\netcoreapp3.1\writePractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\writePractice\obj\Debug\netcoreapp3.1\writePractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\writePractice\obj\Debug\netcoreapp3.1\writePractice.dll
+C:\School\CIS 169 C#\writePractice\obj\Debug\netcoreapp3.1\writePractice.pdb

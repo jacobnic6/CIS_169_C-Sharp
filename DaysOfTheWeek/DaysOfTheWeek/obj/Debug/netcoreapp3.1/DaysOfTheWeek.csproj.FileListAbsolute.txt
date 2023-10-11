@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.exe
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.deps.json
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.json
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.dev.json
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfo.cs
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+C:\School\CIS 169 C#\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.pdb

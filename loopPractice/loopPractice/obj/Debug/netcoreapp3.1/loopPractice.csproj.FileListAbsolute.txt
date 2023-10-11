@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.exe
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.deps.json
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.runtimeconfig.json
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.dll
+C:\School\CIS 169 C#\loopPractice\loopPractice\bin\Debug\netcoreapp3.1\loopPractice.pdb
+C:\School\CIS 169 C#\loopPractice\loopPractice\obj\Debug\netcoreapp3.1\loopPractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\loopPractice\loopPractice\obj\Debug\netcoreapp3.1\loopPractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\loopPractice\loopPractice\obj\Debug\netcoreapp3.1\loopPractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\loopPractice\loopPractice\obj\Debug\netcoreapp3.1\loopPractice.dll
+C:\School\CIS 169 C#\loopPractice\loopPractice\obj\Debug\netcoreapp3.1\loopPractice.pdb

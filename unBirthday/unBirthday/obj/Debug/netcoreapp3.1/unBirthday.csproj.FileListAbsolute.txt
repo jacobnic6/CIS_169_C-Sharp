@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.exe
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.deps.json
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.runtimeconfig.json
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.runtimeconfig.dev.json
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.dll
+C:\School\CIS 169 C#\unBirthday\unBirthday\bin\Debug\netcoreapp3.1\unBirthday.pdb
+C:\School\CIS 169 C#\unBirthday\unBirthday\obj\Debug\netcoreapp3.1\unBirthday.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\unBirthday\unBirthday\obj\Debug\netcoreapp3.1\unBirthday.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\unBirthday\unBirthday\obj\Debug\netcoreapp3.1\unBirthday.AssemblyInfo.cs
+C:\School\CIS 169 C#\unBirthday\unBirthday\obj\Debug\netcoreapp3.1\unBirthday.dll
+C:\School\CIS 169 C#\unBirthday\unBirthday\obj\Debug\netcoreapp3.1\unBirthday.pdb

@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.exe
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.deps.json
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.runtimeconfig.json
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.runtimeconfig.dev.json
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.dll
+C:\School\CIS 169 C#\Module8BookClass\bin\Debug\netcoreapp3.1\Module8BookClass.pdb
+C:\School\CIS 169 C#\Module8BookClass\obj\Debug\netcoreapp3.1\Module8BookClass.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\Module8BookClass\obj\Debug\netcoreapp3.1\Module8BookClass.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\Module8BookClass\obj\Debug\netcoreapp3.1\Module8BookClass.AssemblyInfo.cs
+C:\School\CIS 169 C#\Module8BookClass\obj\Debug\netcoreapp3.1\Module8BookClass.dll
+C:\School\CIS 169 C#\Module8BookClass\obj\Debug\netcoreapp3.1\Module8BookClass.pdb

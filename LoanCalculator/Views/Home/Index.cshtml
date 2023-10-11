@@ -1,0 +1,93 @@
+﻿@model LoanCalculator.Models.LoanCalculatorModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Nicholas Jacobs">
+    <meta name="description" content="Loan Calculator Web App">
+    <meta name="keywords" content="Mortgage Calculator, Loans">
+    <link href="~/css/site.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script>
+        function fillChart(){
+        
+        var xValues = [document.getElementById("chartYears").value/5];
+            new Chart("myChart", {
+                          type: "line",
+                          data: {
+                            labels: xValues,
+                            datasets: [{ 
+                              data: [0, document.getElementById("chart2").value/2, document.getElementById("chart2").value],
+                              borderColor: "red",
+                              fill: false
+                            }, { 
+                              data: [0, document.getElementById("chart3").value/2, 0],
+                              borderColor: "green",
+                              fill: false
+                            }, { 
+                              data: [document.getElementById("chart1").value, document.getElementById("chart1").value/2, 0],
+                              borderColor: "blue",
+                              fill: false
+                            }]
+                          },
+                          options: {
+                            legend: {display: false}
+                          }
+                        });
+        }
+    </script>
+    
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <div class="pageBody">
+        <h1>Loan Payment Calculator</h1>
+        <form asp-action="Index" method="post">
+            <div asp-validation-summary="All"></div>
+            <div class="formBox">
+                <label asp-for="LoanAmount">Loan Amount: </label>
+                <input id="chart1" asp-for="LoanAmount" type="number" placeholder="$0.00"/>
+            </div>
+            <div class="formBox">
+                <label asp-for="InterestRate">Interest Rate: </label>
+                <input asp-for="InterestRate" type="decimal" placeholder="0.0"/>
+            </div>
+            <div class="formBox">
+                <label asp-for="YearLoan">Years on Loan: </label>
+                <input id="chartYears" asp-for="YearLoan" type="number" placeholder="0" />
+            </div>
+
+
+            <div class="formBox"> 
+                <label asp-for="MortgagePayment">Monthly Payment</label>
+                <input value="@ViewBag.MortgagePayment.ToString("C2")" readonly />
+            </div>
+            <div class="formBox"> 
+                <label asp-for="TotalCost">Total Cost</label>
+                <input id="chart2" value="@ViewBag.TotalCost.ToString("C2")" readonly />
+            </div>
+            <div class="formBox"> 
+                <label asp-for="InterestPaid">Interest Paid</label>
+                <input id="chart3" value="@ViewBag.InterestPaid.ToString("C2")" readonly />
+            </div>
+            <div class="buttonStyle">
+                <button type="submit" onClick="fillChart()">Calculate</button>
+                <button type="reset" asp-action="Index">Clear</button>
+            </div>
+        </form>
+            <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+            
+      </div>
+    </div>
+       
+</body>
+</html>

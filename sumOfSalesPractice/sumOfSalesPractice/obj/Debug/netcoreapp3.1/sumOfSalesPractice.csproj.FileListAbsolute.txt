@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\obj\Debug\netcoreapp3.1\sumOfSalesPractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\obj\Debug\netcoreapp3.1\sumOfSalesPractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\obj\Debug\netcoreapp3.1\sumOfSalesPractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.exe
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.deps.json
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.runtimeconfig.json
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.dll
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\bin\Debug\netcoreapp3.1\sumOfSalesPractice.pdb
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\obj\Debug\netcoreapp3.1\sumOfSalesPractice.dll
+C:\School\CIS 169 C#\sumOfSalesPractice\sumOfSalesPractice\obj\Debug\netcoreapp3.1\sumOfSalesPractice.pdb

@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.exe
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.deps.json
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.runtimeconfig.json
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.runtimeconfig.dev.json
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.dll
+C:\School\CIS 169 C#\AddressClass\bin\Debug\netcoreapp3.1\AddressClass.pdb
+C:\School\CIS 169 C#\AddressClass\obj\Debug\netcoreapp3.1\AddressClass.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\AddressClass\obj\Debug\netcoreapp3.1\AddressClass.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\AddressClass\obj\Debug\netcoreapp3.1\AddressClass.AssemblyInfo.cs
+C:\School\CIS 169 C#\AddressClass\obj\Debug\netcoreapp3.1\AddressClass.dll
+C:\School\CIS 169 C#\AddressClass\obj\Debug\netcoreapp3.1\AddressClass.pdb

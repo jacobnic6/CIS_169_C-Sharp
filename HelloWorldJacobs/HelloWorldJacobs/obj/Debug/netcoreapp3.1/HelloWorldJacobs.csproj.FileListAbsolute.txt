@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.exe
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.deps.json
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.runtimeconfig.json
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.runtimeconfig.dev.json
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.dll
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\bin\Debug\netcoreapp3.1\HelloWorldJacobs.pdb
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\obj\Debug\netcoreapp3.1\HelloWorldJacobs.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\obj\Debug\netcoreapp3.1\HelloWorldJacobs.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\obj\Debug\netcoreapp3.1\HelloWorldJacobs.AssemblyInfo.cs
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\obj\Debug\netcoreapp3.1\HelloWorldJacobs.dll
+C:\School\CIS 169 C#\HelloWorldJacobs\HelloWorldJacobs\obj\Debug\netcoreapp3.1\HelloWorldJacobs.pdb

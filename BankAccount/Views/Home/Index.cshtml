@@ -1,0 +1,36 @@
+﻿@model BankAccount
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Bank Account Web App</title>
+</head>
+<body>
+    <h1>Bank Account</h1>
+    <form asp-action="Index" method="post">
+        <div asp-validation-summary="All"></div>
+        <div>
+            <label asp-for="AccountNumber">Account Number</label>
+            <input asp-for="AccountNumber" />
+        </div>
+        <div>
+            <label asp-for="Balance">Account Balance</label>
+            <input asp-for="Balance" />
+        </div>
+        <div>
+            <label asp-for="Amount"> Amount</label>
+            <input asp-for="Amount">
+        </div>
+        <div>
+            <label> Ending Balance</label>
+            <input value="@ViewBag.EndingBalance.ToString("C2")" readonly />
+        </div>
+        <button type="submit">Withdraw</button>
+        <a asp-action="Index">Clear</a>
+    </form>
+</body>
+</html>

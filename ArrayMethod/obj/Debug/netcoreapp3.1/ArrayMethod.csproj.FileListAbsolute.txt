@@ -1,0 +1,10 @@
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.exe
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.deps.json
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.runtimeconfig.json
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.runtimeconfig.dev.json
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.dll
+C:\School\CIS 169 C#\ArrayMethod\bin\Debug\netcoreapp3.1\ArrayMethod.pdb
+C:\School\CIS 169 C#\ArrayMethod\obj\Debug\netcoreapp3.1\ArrayMethod.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\ArrayMethod\obj\Debug\netcoreapp3.1\ArrayMethod.AssemblyInfo.cs
+C:\School\CIS 169 C#\ArrayMethod\obj\Debug\netcoreapp3.1\ArrayMethod.dll
+C:\School\CIS 169 C#\ArrayMethod\obj\Debug\netcoreapp3.1\ArrayMethod.pdb

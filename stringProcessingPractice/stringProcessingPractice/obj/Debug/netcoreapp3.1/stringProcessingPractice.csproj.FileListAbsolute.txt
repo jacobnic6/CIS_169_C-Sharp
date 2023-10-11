@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.exe
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.deps.json
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.runtimeconfig.json
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.dll
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\bin\Debug\netcoreapp3.1\stringProcessingPractice.pdb
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\obj\Debug\netcoreapp3.1\stringProcessingPractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\obj\Debug\netcoreapp3.1\stringProcessingPractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\obj\Debug\netcoreapp3.1\stringProcessingPractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\obj\Debug\netcoreapp3.1\stringProcessingPractice.dll
+C:\School\CIS 169 C#\stringProcessingPractice\stringProcessingPractice\obj\Debug\netcoreapp3.1\stringProcessingPractice.pdb

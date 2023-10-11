@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\obj\Debug\netcoreapp3.1\debuggingLab.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\obj\Debug\netcoreapp3.1\debuggingLab.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\obj\Debug\netcoreapp3.1\debuggingLab.AssemblyInfo.cs
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.exe
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.deps.json
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.runtimeconfig.json
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.runtimeconfig.dev.json
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.dll
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\bin\Debug\netcoreapp3.1\debuggingLab.pdb
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\obj\Debug\netcoreapp3.1\debuggingLab.dll
+C:\School\CIS 169 C#\debuggingLab\debuggingLab\obj\Debug\netcoreapp3.1\debuggingLab.pdb

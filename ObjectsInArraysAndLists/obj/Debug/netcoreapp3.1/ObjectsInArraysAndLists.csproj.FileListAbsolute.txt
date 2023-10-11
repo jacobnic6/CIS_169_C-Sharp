@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.exe
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.deps.json
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.runtimeconfig.json
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.runtimeconfig.dev.json
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.dll
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\bin\Debug\netcoreapp3.1\ObjectsInArraysAndLists.pdb
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\obj\Debug\netcoreapp3.1\ObjectsInArraysAndLists.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\obj\Debug\netcoreapp3.1\ObjectsInArraysAndLists.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\obj\Debug\netcoreapp3.1\ObjectsInArraysAndLists.AssemblyInfo.cs
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\obj\Debug\netcoreapp3.1\ObjectsInArraysAndLists.dll
+C:\School\CIS 169 C#\ObjectsInArraysAndLists\obj\Debug\netcoreapp3.1\ObjectsInArraysAndLists.pdb

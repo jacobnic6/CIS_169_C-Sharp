@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.exe
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.deps.json
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.runtimeconfig.json
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.dll
+C:\School\CIS 169 C#\structPractice\bin\Debug\netcoreapp3.1\structPractice.pdb
+C:\School\CIS 169 C#\structPractice\obj\Debug\netcoreapp3.1\structPractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\structPractice\obj\Debug\netcoreapp3.1\structPractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\structPractice\obj\Debug\netcoreapp3.1\structPractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\structPractice\obj\Debug\netcoreapp3.1\structPractice.dll
+C:\School\CIS 169 C#\structPractice\obj\Debug\netcoreapp3.1\structPractice.pdb

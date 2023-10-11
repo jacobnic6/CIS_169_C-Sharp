@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.exe
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.deps.json
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.runtimeconfig.json
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.runtimeconfig.dev.json
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.dll
+C:\School\CIS 169 C#\Module4\Module4\bin\Debug\netcoreapp3.1\Module4.pdb
+C:\School\CIS 169 C#\Module4\Module4\obj\Debug\netcoreapp3.1\Module4.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\Module4\Module4\obj\Debug\netcoreapp3.1\Module4.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\Module4\Module4\obj\Debug\netcoreapp3.1\Module4.AssemblyInfo.cs
+C:\School\CIS 169 C#\Module4\Module4\obj\Debug\netcoreapp3.1\Module4.dll
+C:\School\CIS 169 C#\Module4\Module4\obj\Debug\netcoreapp3.1\Module4.pdb

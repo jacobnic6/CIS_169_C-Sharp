@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.exe
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.deps.json
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.runtimeconfig.json
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.dll
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\bin\Debug\netcoreapp3.1\unit3Practice.pdb
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\obj\Debug\netcoreapp3.1\unit3Practice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\obj\Debug\netcoreapp3.1\unit3Practice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\obj\Debug\netcoreapp3.1\unit3Practice.AssemblyInfo.cs
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\obj\Debug\netcoreapp3.1\unit3Practice.dll
+C:\School\CIS 169 C#\unit3Practice\unit3Practice\obj\Debug\netcoreapp3.1\unit3Practice.pdb

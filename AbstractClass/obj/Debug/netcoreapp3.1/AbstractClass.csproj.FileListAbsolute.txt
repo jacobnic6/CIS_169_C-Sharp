@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+C:\School\CIS 169 C#\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\School\CIS 169 C#\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\School\CIS 169 C#\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+C:\School\CIS 169 C#\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb

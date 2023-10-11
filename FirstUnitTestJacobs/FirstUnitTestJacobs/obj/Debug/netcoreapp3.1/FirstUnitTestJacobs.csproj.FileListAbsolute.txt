@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\obj\Debug\netcoreapp3.1\FirstUnitTestJacobs.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\obj\Debug\netcoreapp3.1\FirstUnitTestJacobs.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\obj\Debug\netcoreapp3.1\FirstUnitTestJacobs.AssemblyInfo.cs
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.exe
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.deps.json
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.runtimeconfig.json
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.runtimeconfig.dev.json
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.dll
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\bin\Debug\netcoreapp3.1\FirstUnitTestJacobs.pdb
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\obj\Debug\netcoreapp3.1\FirstUnitTestJacobs.dll
+C:\School\CIS 169 C#\FirstUnitTestJacobs\FirstUnitTestJacobs\obj\Debug\netcoreapp3.1\FirstUnitTestJacobs.pdb

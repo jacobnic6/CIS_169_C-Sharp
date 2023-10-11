@@ -1,0 +1,152 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background-image: url('top-view-piggy-bank-with-copy-space.jpg'); 
+    color: black;
+    background-repeat: repeat;
+}
+
+#inline {
+    padding: 0;
+    margin: 0;
+    display: inline-grid;
+}
+
+h1 {
+    text-align: center;
+    font-size: 150%;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(27,44,74,1.00);
+}
+
+li {
+    float: center;
+}
+
+    li a {
+        display: block;
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover:not(.active) {
+            background-color: dimgray;
+        }
+
+.active {
+    background-color: cornflowerblue;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: center;
+    background-color: rgba(27,44,74,1.00);
+    overflow: hidden;
+    float: center;
+}
+
+    nav ul li:last-child {
+        margin-right: 0px;
+    }
+
+nav {
+    background-color: rgba(27,44,74,1.00);
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+    nav a:link, nav a:visited {
+        color: white;
+        text-decoration: none;
+    }
+
+    nav a:hover, nav a:focus {
+        background-color: dimgray;
+    }
+
+
+.container {
+    max-width: 1024px;
+    margin: auto;
+    background-color: beige;
+    position: relative;
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.float-right {
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.5);
+}
+
+
+
+* {
+    web-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    letter-spacing: -0.25px;
+}
+
+#oListStyle {
+    padding-left: 50px;
+}
+
+.liStyle {
+    color: white;
+    padding-left: 16px;
+    margin-top: 24px;
+    position: relative;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+/*ol.alternating-colors{
+	li:nth-child(odd):before {border-color: #0BAD02;}
+	li:nth-child(even):before {border-color: #2378D5;}
+}*/
+
+.pageBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    margin-top: 30px;
+    width: 100%;
+    background-color: rgba(27,44,74,1.00);
+    color: white;
+    text-align: center;
+}

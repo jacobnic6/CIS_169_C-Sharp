@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\obj\Debug\netcoreapp3.1\validateInputDoWhileLoop.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\obj\Debug\netcoreapp3.1\validateInputDoWhileLoop.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\obj\Debug\netcoreapp3.1\validateInputDoWhileLoop.AssemblyInfo.cs
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.exe
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.deps.json
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.runtimeconfig.json
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.runtimeconfig.dev.json
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.dll
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\bin\Debug\netcoreapp3.1\validateInputDoWhileLoop.pdb
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\obj\Debug\netcoreapp3.1\validateInputDoWhileLoop.dll
+C:\School\CIS 169 C#\validateInputDoWhileLoop\validateInputDoWhileLoop\obj\Debug\netcoreapp3.1\validateInputDoWhileLoop.pdb

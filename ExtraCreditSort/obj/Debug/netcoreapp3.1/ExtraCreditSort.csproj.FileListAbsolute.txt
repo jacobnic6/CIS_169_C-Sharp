@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\ExtraCreditSort\obj\Debug\netcoreapp3.1\ExtraCreditSort.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\ExtraCreditSort\obj\Debug\netcoreapp3.1\ExtraCreditSort.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\ExtraCreditSort\obj\Debug\netcoreapp3.1\ExtraCreditSort.AssemblyInfo.cs
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.exe
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.deps.json
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.runtimeconfig.json
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.runtimeconfig.dev.json
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.dll
+C:\School\CIS 169 C#\ExtraCreditSort\bin\Debug\netcoreapp3.1\ExtraCreditSort.pdb
+C:\School\CIS 169 C#\ExtraCreditSort\obj\Debug\netcoreapp3.1\ExtraCreditSort.dll
+C:\School\CIS 169 C#\ExtraCreditSort\obj\Debug\netcoreapp3.1\ExtraCreditSort.pdb

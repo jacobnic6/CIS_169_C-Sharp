@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\obj\Debug\netcoreapp3.1\MethodBasics.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\obj\Debug\netcoreapp3.1\MethodBasics.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\obj\Debug\netcoreapp3.1\MethodBasics.AssemblyInfo.cs
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.exe
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.deps.json
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.runtimeconfig.json
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.runtimeconfig.dev.json
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.dll
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\bin\Debug\netcoreapp3.1\MethodBasics.pdb
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\obj\Debug\netcoreapp3.1\MethodBasics.dll
+C:\School\CIS 169 C#\MethodBasics\MethodBasics\obj\Debug\netcoreapp3.1\MethodBasics.pdb

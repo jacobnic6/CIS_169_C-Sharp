@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\School\CIS 169 C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb

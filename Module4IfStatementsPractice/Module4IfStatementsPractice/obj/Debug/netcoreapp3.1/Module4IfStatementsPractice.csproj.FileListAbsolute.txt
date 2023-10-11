@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\obj\Debug\netcoreapp3.1\Module4IfStatementsPractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\obj\Debug\netcoreapp3.1\Module4IfStatementsPractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\obj\Debug\netcoreapp3.1\Module4IfStatementsPractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.exe
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.deps.json
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.runtimeconfig.json
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.dll
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\bin\Debug\netcoreapp3.1\Module4IfStatementsPractice.pdb
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\obj\Debug\netcoreapp3.1\Module4IfStatementsPractice.dll
+C:\School\CIS 169 C#\Module4IfStatementsPractice\Module4IfStatementsPractice\obj\Debug\netcoreapp3.1\Module4IfStatementsPractice.pdb

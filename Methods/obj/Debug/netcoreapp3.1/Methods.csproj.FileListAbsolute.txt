@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\School\CIS 169 C#\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\School\CIS 169 C#\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\School\CIS 169 C#\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\School\CIS 169 C#\Methods\obj\Debug\netcoreapp3.1\Methods.pdb

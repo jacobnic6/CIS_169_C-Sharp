@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\Module6Practice\obj\Debug\netcoreapp3.1\Module6Practice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\Module6Practice\obj\Debug\netcoreapp3.1\Module6Practice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\Module6Practice\obj\Debug\netcoreapp3.1\Module6Practice.AssemblyInfo.cs
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.exe
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.deps.json
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.runtimeconfig.json
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.dll
+C:\School\CIS 169 C#\Module6Practice\bin\Debug\netcoreapp3.1\Module6Practice.pdb
+C:\School\CIS 169 C#\Module6Practice\obj\Debug\netcoreapp3.1\Module6Practice.dll
+C:\School\CIS 169 C#\Module6Practice\obj\Debug\netcoreapp3.1\Module6Practice.pdb

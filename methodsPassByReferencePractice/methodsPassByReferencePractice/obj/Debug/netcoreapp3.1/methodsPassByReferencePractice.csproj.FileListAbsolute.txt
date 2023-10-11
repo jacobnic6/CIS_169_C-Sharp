@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.exe
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.deps.json
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.runtimeconfig.json
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.runtimeconfig.dev.json
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.dll
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\bin\Debug\netcoreapp3.1\methodsPassByReferencePractice.pdb
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\obj\Debug\netcoreapp3.1\methodsPassByReferencePractice.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\obj\Debug\netcoreapp3.1\methodsPassByReferencePractice.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\obj\Debug\netcoreapp3.1\methodsPassByReferencePractice.AssemblyInfo.cs
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\obj\Debug\netcoreapp3.1\methodsPassByReferencePractice.dll
+C:\School\CIS 169 C#\methodsPassByReferencePractice\methodsPassByReferencePractice\obj\Debug\netcoreapp3.1\methodsPassByReferencePractice.pdb

@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.exe
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.deps.json
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.runtimeconfig.json
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.runtimeconfig.dev.json
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.dll
+C:\School\CIS 169 C#\groupWork\groupWork\bin\Debug\netcoreapp3.1\groupWork.pdb
+C:\School\CIS 169 C#\groupWork\groupWork\obj\Debug\netcoreapp3.1\groupWork.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\groupWork\groupWork\obj\Debug\netcoreapp3.1\groupWork.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\groupWork\groupWork\obj\Debug\netcoreapp3.1\groupWork.AssemblyInfo.cs
+C:\School\CIS 169 C#\groupWork\groupWork\obj\Debug\netcoreapp3.1\groupWork.dll
+C:\School\CIS 169 C#\groupWork\groupWork\obj\Debug\netcoreapp3.1\groupWork.pdb

@@ -1,0 +1,11 @@
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.exe
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.deps.json
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.runtimeconfig.json
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.runtimeconfig.dev.json
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.dll
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\bin\Debug\netcoreapp3.1\BillTipTaxJacobs.pdb
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\obj\Debug\netcoreapp3.1\BillTipTaxJacobs.csprojAssemblyReference.cache
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\obj\Debug\netcoreapp3.1\BillTipTaxJacobs.AssemblyInfoInputs.cache
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\obj\Debug\netcoreapp3.1\BillTipTaxJacobs.AssemblyInfo.cs
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\obj\Debug\netcoreapp3.1\BillTipTaxJacobs.dll
+C:\School\CIS 169 C#\BillTipTaxJacobs\BillTipTaxJacobs\obj\Debug\netcoreapp3.1\BillTipTaxJacobs.pdb
